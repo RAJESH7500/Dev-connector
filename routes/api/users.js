@@ -8,7 +8,7 @@ const router = express.Router();
 
 // @route post api/users
 // desc public
-
+// route to create new user
 router.post(
   "/",
   [
